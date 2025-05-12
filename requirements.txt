@@ -1,0 +1,2 @@
+pywin32~=310
+pyserial~=3.5
